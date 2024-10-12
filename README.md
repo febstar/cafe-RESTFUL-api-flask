@@ -101,6 +101,4 @@ You can interact with the API using tools like Postman or cURL. Below are some e
 
 Feel free to fork the repository and submit pull requests. Any improvements or bug fixes are welcome.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
